@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">LibraryApp</string>
+    <string name="textview">LibraryApp</string>
+    <string name="button">Show All Books</string>
+</resources>

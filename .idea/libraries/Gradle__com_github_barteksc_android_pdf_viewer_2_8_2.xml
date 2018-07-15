@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.barteksc:android-pdf-viewer-2.8.2">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.android/build-cache/31350191557f865dc3822ea9584334bd875b561a/output/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.android/build-cache/31350191557f865dc3822ea9584334bd875b561a/output/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.barteksc/android-pdf-viewer/2.8.2/3a6875f9abac8b069fc55194cc8aa5b3a1fcaa7c/android-pdf-viewer-2.8.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
